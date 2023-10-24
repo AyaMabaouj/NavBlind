@@ -23,7 +23,7 @@ public class SplashScreen extends AppCompatActivity {
             @Override
             public void run() {
                 // Démarre l'activité principale
-                Intent intent = new Intent(SplashScreen.this, MainActivity.class);
+                Intent intent = new Intent(SplashScreen.this, FingerPrintActivity.class);
                 startActivity(intent);
                 finish(); // Ferme l'écran de démarrage pour qu'il ne puisse pas être revenir en arrière
             }

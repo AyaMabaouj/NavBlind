@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
     <color name="Black">#000000</color>
     <color name="Gunmetal">#2C3539</color>
     <color name="Midnight">#2B1B17</color>
@@ -42,6 +49,7 @@
     <color name="SapphireBlue">#2554C7</color>
     <color name="BlueEyes">#1569C7</color>
     <color name="blue">#0635AA</color>
+    <color name="background">#40CFCECE</color>
     <color name="RoyalBlue">#2B60DE</color>
     <color name="BlueOrchid">#1F45FC</color>
     <color name="BlueLotus">#6960EC</color>
